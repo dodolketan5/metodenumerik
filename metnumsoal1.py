@@ -1,6 +1,6 @@
 #this is my first journey to learn python, i hope i'll get more things to learn about science data and physics-based data implemetation
 #anyway, i use bahasa Indonesia to code this one
-#so sorry if this syntax not so simple, I'm newbie
+#so sorry if this syntax is not so simple, I'm newbie
 
 import sympy 
 import math
