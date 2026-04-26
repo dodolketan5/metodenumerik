@@ -1,3 +1,6 @@
+#this is my first journey to learn python, i hope i'll get more things to learn about science data and physics-based data implemetation
+#anyway, i use bahasa Indonesia to code this one
+
 import sympy 
 import math
 
